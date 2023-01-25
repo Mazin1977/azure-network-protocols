@@ -85,10 +85,14 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DV8Wpkf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Part 2 (Observe DHCP Traffic)
+Back in Wireshark, filter for DHCP traffic only
+From your Windows 10 VM, attempt to issue your VM a new IP address from the command line (ipconfig /renew)
+Observe the DHCP traffic appearing in WireShark
+
 </p>
 <br />
 <p>
