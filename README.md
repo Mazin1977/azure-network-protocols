@@ -52,7 +52,7 @@ Part 1 (Create our Resources)
 <br />
 
 <p>
-<img src="https://i.imgur.com/yiHbfbG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vnTVkVs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - Part 2 (Observe ICMP Traffic)
