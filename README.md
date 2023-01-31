@@ -96,7 +96,7 @@ Part 2 (Observe DHCP Traffic)
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/V5BS07S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DF1ynpT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Part 2 (Observe DNS Traffic)
